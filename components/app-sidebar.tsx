@@ -48,46 +48,46 @@ const data = {
     },
     {
       title: "Offers",
-      url: "/dashboard/offers",
+      url: "/offers",
       icon: IconReceipt2,
     },
     {
       title: "Applications",
-      url: "/dashboard/applications",
+      url: "/applications",
       icon: IconApps,
     },
     {
       title: "Messages",
-      url: "/dashboard/messages",
+      url: "/messages",
       icon: IconBrandHipchat,
     },
     {
       title: "Prices",
-      url: "/dashboard/prices",
+      url: "/prices",
       icon: IconPencilDollar,
     },
   ],
   documents: [
     {
       name: "Cover Letter",
-      url: "/dashboard/cover-letter",
+      url: "/cover-letter",
       icon: IconFileTextSpark,
     },
     {
       name: "Curriculum Vitae",
-      url: "/dashboard/curriculum-vitae",
+      url: "/curriculum-vitae",
       icon: IconFileCv,
     },
   ],
   master: [
     {
       name: "Levels",
-      url: "/dashboard/level",
+      url: "/level",
       icon: IconStack2,
     },
     {
       name: "Feature Types",
-      url: "/dashboard/feature-types",
+      url: "/feature-types",
       icon: IconLeaf,
     },
     {
@@ -97,22 +97,22 @@ const data = {
       items: [
         {
           name: "Skills",
-          url: "/dashboard/skills",
+          url: "/skills",
           icon: IconTool,
         },
         {
           name: "Experiences",
-          url: "/dashboard/experiences",
+          url: "/experiences",
           icon: IconBrain,
         },
         {
           name: "Educations",
-          url: "/dashboard/educations",
+          url: "/educations",
           icon: IconFlask2,
         },
         {
           name: "Certifications",
-          url: "/dashboard/certifications",
+          url: "/certifications",
           icon: IconCertificate,
         },
       ]
